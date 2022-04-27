@@ -1,2 +1,5 @@
 vosk>=0.3.7
 websockets>=7.0
+aiortc
+aiohttp
+aiorpc
